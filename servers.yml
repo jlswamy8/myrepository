@@ -1,0 +1,6 @@
+tcpdev:
+  host: 104.131.27.106
+  user: tcpdev
+  identity_file: ~
+  stage: staging
+  deploy_path: /var/www/html/apps
